@@ -12,6 +12,7 @@
 <link rel="stylesheet" href="${cssUrl}">
 </head>
 <body>
+<h1>あほ</h1>
 	<div class="container">
 		<h1>お問い合わせ完了</h1>
 		<p class="success-message">
